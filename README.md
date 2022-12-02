@@ -4,9 +4,9 @@
 </br>
 
 ### 프로젝트 진행 상황
-![Progress](https://progress-bar.dev/80/?title=Data-capture&width=400&color=1BC8Bf)
-* 이미지 선정
-* 이미지 가공(흑백화)
+![Progress](https://progress-bar.dev/100/?title=Data-capture&width=400&color=1BC8Bf)
+* **이미지 선정**
+* ~이미지 가공(흑백화)~
 * **데이터 추출 (채팅 목록, txt 파일)**
 * **구현 - 데이터 불러오기**
 * **구현 - 데이터 추출하기(string)**
